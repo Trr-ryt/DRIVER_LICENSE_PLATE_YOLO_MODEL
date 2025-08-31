@@ -1,6 +1,7 @@
 # DRIVER_LICENSE_PLATE_YOLOV11
 
 This project focuses on real-time object detection for vehicles and Thai license plates using the YOLO model accelerated by an NVIDIA GPU, with additional support for Thai character and province recognition, as illustrated in the figure below. The model was implemented on a Raspberry Pi 5; however, performance was not smooth due to reliance on CPU-only processing. For better Perfromance. To improve performance, an AI accelerator (HAT) is required.
+![yolo11](https://github.com/user-attachments/assets/e5fff002-96e4-4f3c-a504-eabcd6d14e00)
 
 ## Features
 
